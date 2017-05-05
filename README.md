@@ -1,2 +1,2 @@
 # AwesomeJetLight
-We share Tutorials, Courses , informations that we think it will help other developers ;-)
+We share tutorials, courses, informations that we think will help other developers ;-)
