@@ -12,3 +12,5 @@ For all game designers or developers:
               
         - medium (basic controls and sound effects covered): 
           Tanks tutorial    https://unity3d.com/learn/tutorials/projects/tanks-tutorial
+          Survival 3D       https://unity3d.com/learn/tutorials/projects/survival-shooter-tutorial 
+          
