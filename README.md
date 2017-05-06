@@ -42,3 +42,8 @@ If you are planning to learn C# programming language then there are a plethora o
       
 [6)eduonix](http://www.eduonix.com/courses/Software-Development/Learn-C-Sharp-Programming-From-Scratch)
 
+## Special thanks To : 
+
+[Oussama BOnnor](https://github.com/oussamabonnor1)
+
+[Amine Smahi](https://github.com/Amine-Smahi)
