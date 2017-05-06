@@ -34,6 +34,8 @@ If you are planning to learn C# programming language then there are a plethora o
 
 [5) Microsoft C# Training](https://www.microsoftvirtualacademy.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-8295)
       
+[6)eduonix](http://www.eduonix.com/courses/Software-Development/Learn-C-Sharp-Programming-From-Scratch)
+
 # Checkout our team's work with Unity3D:
 [Ball Fall](https://play.google.com/store/apps/details?id=com.Oussama.BallFall) 🏀,
 [SportyKa](https://play.google.com/store/apps/details?id=com.JetLightstudio.SportyKa) 🏀⚽️
