@@ -19,7 +19,13 @@ Unity links (youtube redirected):
 [Tanks3D tutorial](https://unity3d.com/learn/tutorials/projects/tanks-tutorial),
 [Survival 3D](https://unity3d.com/learn/tutorials/projects/survival-shooter-tutorial)
       
-      
+  
+# Checkout our team's work with Unity3D:
+[Ball Fall](https://play.google.com/store/apps/details?id=com.Oussama.BallFall) 🏀,
+[SportyKa](https://play.google.com/store/apps/details?id=com.JetLightstudio.SportyKa) 🏀⚽️
+
+
+    
 # C# tutoriels: 
 If you are planning to learn C# programming language then there are a plethora of online resources that can help you in getting best C# training for beginners. Here, I am listing down online resources to learn C# programming step by step. The resources include text tutorials, video tutorials and e-books. Alright, here we go.
 
@@ -35,8 +41,4 @@ If you are planning to learn C# programming language then there are a plethora o
 [5) Microsoft C# Training](https://www.microsoftvirtualacademy.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-8295)
       
 [6)eduonix](http://www.eduonix.com/courses/Software-Development/Learn-C-Sharp-Programming-From-Scratch)
-
-# Checkout our team's work with Unity3D:
-[Ball Fall](https://play.google.com/store/apps/details?id=com.Oussama.BallFall) 🏀,
-[SportyKa](https://play.google.com/store/apps/details?id=com.JetLightstudio.SportyKa) 🏀⚽️
 
