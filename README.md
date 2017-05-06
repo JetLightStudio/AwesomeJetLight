@@ -44,6 +44,6 @@ If you are planning to learn C# programming language then there are a plethora o
 
 ## Special thanks To : 
 
-[Oussama BOnnor](https://github.com/oussamabonnor1)
+[Oussama BONNOR](https://github.com/oussamabonnor1)
 
-[Amine Smahi](https://github.com/Amine-Smahi)
+[Amine SMAHI](https://github.com/Amine-Smahi)
