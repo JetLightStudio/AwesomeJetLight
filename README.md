@@ -47,9 +47,9 @@ If you are planning to learn C# programming language then there are a plethora o
 
 [5) Microsoft C# Training](https://www.microsoftvirtualacademy.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-8295)
       
-[6)eduonix](http://www.eduonix.com/courses/Software-Development/Learn-C-Sharp-Programming-From-Scratch)
+[6) eduonix](http://www.eduonix.com/courses/Software-Development/Learn-C-Sharp-Programming-From-Scratch)
 
-[7)Udemy](https://www.udemy.com/courses/search/?ref=home&q=C%23)
+[7) Udemy](https://www.udemy.com/courses/search/?ref=home&q=C%23)
 
 ## Special thanks To : 
 
