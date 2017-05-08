@@ -50,6 +50,24 @@ If you are planning to learn C# programming language then there are a plethora o
 
 [7) Udemy](https://www.udemy.com/courses/search/?ref=home&q=C%23)
 
+# JavaFX Tutorials:
+
+* What is JavaFX ? 
+
+JavaFX is a software platform for creating and delivering desktop applications, as well as rich internet applications that can run across a wide variety of devices. JavaFX is intended to replace Swing as the standard GUI library for Java SE, but both will be included for the foreseeable future. JavaFX has support for desktop computers and web browsers on Microsoft Windows, Linux, and macOS.
+
+* Features of JavaFX:
+    
+    Written in Java, User Interface in FXML, creating Graphics using Scene Builder (drag and drop technoligy)
+    Swing Interoperability (using Swing Node class), CSS like Styling, Canvas and Printing API, Rich set of API’s
+    Integrated Graphics library (2D/3D), Graphics pipeline.
+
+* JavaFX tutorials links:
+
+    [Getting started](http://docs.oracle.com/javafx/2/get_started/jfxpub-get_started.htm)
+
+
+
 ## Special thanks To : 
 
 [Oussama BONNOR](https://github.com/oussamabonnor1)
