@@ -65,8 +65,13 @@ JavaFX is a software platform for creating and delivering desktop applications, 
 * JavaFX tutorials links:
 
     [Getting started](http://docs.oracle.com/javafx/2/get_started/jfxpub-get_started.htm)
+    
+    [Some projects step by step](https://www.youtube.com/playlist?list=PLhs1urmduZ2_H0T6DTAXqqmWt1cD9j5a-)
 
+# Checkout our team's work with JavaFX: 
 
+[Math teacher](https://github.com/oussamabonnor1/Material-design-Math-Teacher)📖 👓,
+[Find the Letter](https://github.com/oussamabonnor1/find_the_letter_material_design)🔍🔡
 
 ## Special thanks To : 
 
