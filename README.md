@@ -37,7 +37,7 @@ Unity Tutorials links:
 # C# tutorials: 
 If you are planning to learn C# programming language then there are a plethora of online resources that can help you in getting best C# training for beginners. Here, we are listing down online resources to learn C# programming step by step. The resources include text tutorials, video tutorials and e-books.
 
-[1) Tutorials Point](http://www.tutorialspoint.com/csharp/index.htm)
+[1) Tutorials Point](http://www.tutorialspoint.com/csharp/index.htm)                 
 
 [2) C# Station](http://www.csharp-station.com/tutorial.aspx)
 
@@ -50,6 +50,9 @@ If you are planning to learn C# programming language then there are a plethora o
 [6) eduonix](http://www.eduonix.com/courses/Software-Development/Learn-C-Sharp-Programming-From-Scratch)
 
 [7) Udemy](https://www.udemy.com/courses/search/?ref=home&q=C%23)
+
+[8)Fundamentals of Computer Programming with C#](http://www.introprogramming.info/)
+
 
 # JavaFX Tutorials:
 
