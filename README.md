@@ -77,7 +77,8 @@ JavaFX is a software platform for creating and delivering desktop applications, 
 
 # Checkout our team's work with JavaFX: 
 
-[Math teacher](https://github.com/oussamabonnor1/Material-design-Math-Teacher) 📖 👓,
+[Math teacher](https://github.com/oussamabonnor1/Material-design-Math-Teacher) 📖 👓
+
 [Find the Letter](https://github.com/oussamabonnor1/find_the_letter_material_design) 🔍🔡
 
 ## Special thanks To : 
