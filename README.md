@@ -33,8 +33,13 @@ Unity Tutorials links:
 
       
 * Having issues, 😭 bugs 😭 or code problems ? 👉 
+
 [Visit Unity Answers (like StackOverFlow but for Unity)](http://answers.unity3d.com/index.html)
   
+* You already know Unity3D and used it before ? 👉 
+
+[10 Great Tips to use in Unity3D](https://www.youtube.com/watch?v=JDVuTBHnGWw)
+
 # Checkout our team's work with Unity3D:
 [Ball Fall](https://play.google.com/store/apps/details?id=com.Oussama.BallFall) 🏀,
 [SportyKa](https://play.google.com/store/apps/details?id=com.JetLightstudio.SportyKa) 🏀⚽️
