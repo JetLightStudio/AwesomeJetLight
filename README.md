@@ -70,15 +70,15 @@ JavaFX is a software platform for creating and delivering desktop applications, 
 
 * Features of JavaFX:
     
-    Written in Java, User Interface in FXML, creating Graphics using Scene Builder (drag and drop technoligy)
-    Swing Interoperability (using Swing Node class), CSS like Styling, Canvas and Printing API, Rich set of API’s
-    Integrated Graphics library (2D/3D), Graphics pipeline.
+Written in Java, User Interface in FXML, creating Graphics using Scene Builder (drag and drop technoligy)
+Swing Interoperability (using Swing Node class), CSS like Styling, Canvas and Printing API, Rich set of API’s
+Integrated Graphics library (2D/3D), Graphics pipeline.
 
 * JavaFX tutorials links:
 
-    [Getting started](http://docs.oracle.com/javafx/2/get_started/jfxpub-get_started.htm)
+[Getting started](http://docs.oracle.com/javafx/2/get_started/jfxpub-get_started.htm)
     
-    [Some projects step by step](https://www.youtube.com/playlist?list=PLhs1urmduZ2_H0T6DTAXqqmWt1cD9j5a-)
+[Some projects step by step](https://www.youtube.com/playlist?list=PLhs1urmduZ2_H0T6DTAXqqmWt1cD9j5a-)
 
 # Checkout our team's work with JavaFX: 
 
