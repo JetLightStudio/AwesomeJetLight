@@ -5,7 +5,7 @@ We share tutorials, courses, informations that we think will help other develope
 
 # Unity3D tutorials:
 
-🌟🌟🌟[What is Unity3D ?](https://unity3d.com/unity) 🌟🌟🌟
+# [What is Unity3D ?](https://unity3d.com/unity)
 
 🌟🌟🌟 [what can i do with Unity ?](https://www.youtube.com/watch?v=GXI0l3yqBrA) 🌟🌟🌟
 
@@ -23,24 +23,15 @@ Unity Tutorials links:
               
 * medium: 
 [Tanks3D tutorial](https://unity3d.com/learn/tutorials/projects/tanks-tutorial),
-[Survival 3D](https://unity3d.com/learn/tutorials/projects/survival-shooter-tutorial)
-
-* full tutoriels: 
-
-[Arabic language](https://goo.gl/z6srXR)/
-[English language](https://goo.gl/nDm2YU)
-
+[Survival 3D](https://unity3d.com/learn/tutorials/projects/survival-shooter-tutorial),
+[Udemy tutoriel (build your very first game)](https://www.udemy.com/unity-game-developer/)
       
 * Having issues, 😭 bugs 😭 or code problems ? 👉 
-
 [Visit Unity Answers (like StackOverFlow but for Unity)](http://answers.unity3d.com/index.html)
   
-* You already know Unity3D and used it before ? 👉 
-
-[10 Great Tips to use in Unity3D](https://www.youtube.com/watch?v=JDVuTBHnGWw)
-
 # Checkout our team's work with Unity3D:
-[Ball Fall](https://play.google.com/store/apps/details?id=com.Oussama.BallFall) 🏀,
+[Ball Fall](https://play.google.com/store/apps/details?id=com.Oussama.BallFall) 🏀
+
 [SportyKa](https://play.google.com/store/apps/details?id=com.JetLightstudio.SportyKa) 🏀⚽️
 
 
@@ -74,19 +65,20 @@ JavaFX is a software platform for creating and delivering desktop applications, 
 
 * Features of JavaFX:
     
-Written in Java, User Interface in FXML, creating Graphics using Scene Builder (drag and drop technoligy)
-Swing Interoperability (using Swing Node class), CSS like Styling, Canvas and Printing API, Rich set of API’s
-Integrated Graphics library (2D/3D), Graphics pipeline.
+    Written in Java, User Interface in FXML, creating Graphics using Scene Builder (drag and drop technoligy)
+    Swing Interoperability (using Swing Node class), CSS like Styling, Canvas and Printing API, Rich set of API’s
+    Integrated Graphics library (2D/3D), Graphics pipeline.
 
 * JavaFX tutorials links:
 
-[Getting started](http://docs.oracle.com/javafx/2/get_started/jfxpub-get_started.htm)
+    [Getting started](http://docs.oracle.com/javafx/2/get_started/jfxpub-get_started.htm)
     
-[Some projects step by step](https://www.youtube.com/playlist?list=PLhs1urmduZ2_H0T6DTAXqqmWt1cD9j5a-)
+    [Some projects step by step](https://www.youtube.com/playlist?list=PLhs1urmduZ2_H0T6DTAXqqmWt1cD9j5a-)
 
 # Checkout our team's work with JavaFX: 
 
-[Math teacher](https://github.com/oussamabonnor1/Material-design-Math-Teacher) 📖 👓,
+[Math teacher](https://github.com/oussamabonnor1/Material-design-Math-Teacher) 📖 👓
+
 [Find the Letter](https://github.com/oussamabonnor1/find_the_letter_material_design) 🔍🔡
 
 ## Special thanks To : 
