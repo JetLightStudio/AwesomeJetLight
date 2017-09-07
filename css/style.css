@@ -178,5 +178,9 @@ a{
         padding-left: 3px;
        background-color: #051C32;    
    }
-    
+}
+@media screen and (max-width: 350px) /* Mobile */ {
+   .follow {
+    margin: 625px auto 0;
+  }
 }
