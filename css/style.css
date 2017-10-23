@@ -1,6 +1,6 @@
 html, body {
   width: 100%;
-    font-size: 18px;
+    font-size: 17px;
     font-family: Roboto, sans-serif;
 }
 .bg{
@@ -52,16 +52,16 @@ input[type="radio"][name="tabs"]:checked + .tab-label-content .tab-content {
   display: block;
 }
 input[type="radio"][name="tabs"]:nth-of-type(1):checked ~ .slide {
-  left: calc((100% / 4) * 0);
+  left: calc((100% / 3) * 0);
 }
 input[type="radio"][name="tabs"]:nth-of-type(2):checked ~ .slide {
-  left: calc((100% / 4) * 1);
+  left: calc((100% / 3) * 1);
 }
 input[type="radio"][name="tabs"]:nth-of-type(3):checked ~ .slide {
-  left: calc((100% / 4) * 2);
+  left: calc((100% / 3) * 2);
 }
 input[type="radio"][name="tabs"]:nth-of-type(4):checked ~ .slide {
-  left: calc((100% / 4) * 3);
+  left: calc((100% / 3) * 3);
 }
 input[type="radio"][name="tabs"]:first-of-type:checked ~ .slide {
   left: 0;
@@ -94,7 +94,7 @@ a{
 }
 .slide {
   background: #308AFA;
-  width: calc(100% / 4);
+  width: calc(100% / 3);
   height: 4px;
   position: absolute;
   left: 0;
@@ -163,7 +163,7 @@ a{
 }
 @media only screen and (max-width: 768px) {
     .follow {
-    margin: 500px auto 0;
+    margin: 555px auto 0;
   }
     h1{
         padding-bottom: 10px;
@@ -178,5 +178,9 @@ a{
         padding-left: 3px;
        background-color: #051C32;    
    }
-    
+}
+@media screen and (max-width: 350px) /* Mobile */ {
+   .follow {
+    margin: 625px auto 0;
+  }
 }
