@@ -63,7 +63,8 @@ If you are planning to learn C# programming language then there are a plethora o
 
 [8) Fundamentals of Computer Programming with C#](http://www.introprogramming.info/)
 
-[9) msdn channel ](https://channel9.msdn.com/events/Patterns-Practices-Symposium-Online/pattern-practices-symposium-2013/building-a-Windows-Store-app-using-XAML-and-C-sharp)
+[9) msdn channel ](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
+
 
 # JavaFX Tutorials:
 
