@@ -1,12 +1,12 @@
 # AwesomeJetLight [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-We share tutorials, courses, informations that we think will help other developers 
+We share tutorials, courses, informations that we think will help other developers!
 
 * For all game designers or developers 🎮 🎲
 
 # Unity3D tutorials:
 
 
-# [What is Unity3D ?](https://unity3d.com/unity)
+## [What is Unity3D ?](https://unity3d.com/unity)
 
 
 🌟🌟🌟 [what can i do with Unity ?](https://www.youtube.com/watch?v=GXI0l3yqBrA) 🌟🌟🌟
