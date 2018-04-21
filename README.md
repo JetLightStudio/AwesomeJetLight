@@ -35,7 +35,7 @@ Unity Tutorials links:
 * Having issues, 😭 bugs 😭 or code problems ? 👉 
 [Visit Unity Answers (like StackOverFlow but for Unity)](http://answers.unity3d.com/index.html)
   
-# Checkout our team's work with Unity3D:
+## Checkout our team's work with Unity3D:
 [Ball Fall](https://play.google.com/store/apps/details?id=com.Oussama.BallFall) 🏀
 
 [Ball Fall 2](https://play.google.com/store/apps/details?id=com.JetLightstudio.BallFall2) 🏀2
@@ -84,7 +84,7 @@ JavaFX is a software platform for creating and delivering desktop applications, 
     
     [Some projects step by step](https://www.youtube.com/playlist?list=PLhs1urmduZ2_H0T6DTAXqqmWt1cD9j5a-)
 
-# Checkout our team's work with JavaFX: 
+## Checkout our team's work with JavaFX: 
 
 [Math teacher](https://github.com/oussamabonnor1/Material-design-Math-Teacher) 📖 👓
 
