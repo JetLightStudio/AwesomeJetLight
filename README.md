@@ -95,8 +95,7 @@ JavaFX is a software platform for creating and delivering desktop applications, 
 
 [JetTunes](https://github.com/oussamabonnor1/Music_Player_material_design_javaFX) 🎶🎶
 
-## Special thanks To : 
-
+## Special thanks to these [Jetlighters](https://github.com/JetLightStudio): 
 [Oussama BONNOR](https://github.com/oussamabonnor1)
 
 [Amine SMAHI](https://github.com/Amine-Smahi)
