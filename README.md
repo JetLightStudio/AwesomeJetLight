@@ -1,12 +1,12 @@
 # AwesomeJetLight [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-We share tutorials, courses, informations that we think will help other developers 
+We share tutorials, courses, informations that we think will help other developers!
 
 * For all game designers or developers 🎮 🎲
 
 # Unity3D tutorials:
 
 
-# [What is Unity3D ?](https://unity3d.com/unity)
+## [What is Unity3D ?](https://unity3d.com/unity)
 
 
 🌟🌟🌟 [what can i do with Unity ?](https://www.youtube.com/watch?v=GXI0l3yqBrA) 🌟🌟🌟
@@ -35,13 +35,16 @@ Unity Tutorials links:
 * Having issues, 😭 bugs 😭 or code problems ? 👉 
 [Visit Unity Answers (like StackOverFlow but for Unity)](http://answers.unity3d.com/index.html)
   
-# Checkout our team's work with Unity3D:
+## Checkout our team's work with Unity3D:
 [Ball Fall](https://play.google.com/store/apps/details?id=com.Oussama.BallFall) 🏀
 
 [Ball Fall 2](https://play.google.com/store/apps/details?id=com.JetLightstudio.BallFall2) 🏀2
 
 [SportyKa](https://play.google.com/store/apps/details?id=com.JetLightstudio.SportyKa) 🏀⚽️
 
+[Catcheep](https://play.google.com/store/apps/details?id=com.JetLightstudio.Catcheep) 🐑👽🐺
+
+[Da Wey](https://globalgamejam.org/2018/games/da-wey) 🚗🚘
 
     
 # C# tutorials: 
@@ -63,7 +66,8 @@ If you are planning to learn C# programming language then there are a plethora o
 
 [8) Fundamentals of Computer Programming with C#](http://www.introprogramming.info/)
 
-[9) msdn channel ](https://channel9.msdn.com/events/Patterns-Practices-Symposium-Online/pattern-practices-symposium-2013/building-a-Windows-Store-app-using-XAML-and-C-sharp)
+[9) msdn channel ](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
+
 
 # JavaFX Tutorials:
 
@@ -83,11 +87,13 @@ JavaFX is a software platform for creating and delivering desktop applications, 
     
     [Some projects step by step](https://www.youtube.com/playlist?list=PLhs1urmduZ2_H0T6DTAXqqmWt1cD9j5a-)
 
-# Checkout our team's work with JavaFX: 
+## Checkout our team's work with JavaFX: 
 
 [Math teacher](https://github.com/oussamabonnor1/Material-design-Math-Teacher) 📖 👓
 
 [Find the Letter](https://github.com/oussamabonnor1/find_the_letter_material_design) 🔍🔡
+
+[JetTunes](https://github.com/oussamabonnor1/Music_Player_material_design_javaFX) 🎶🎶
 
 ## Special thanks To : 
 
