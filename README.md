@@ -68,6 +68,10 @@ If you are planning to learn C# programming language then there are a plethora o
 
 [9) msdn channel ](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169)
 
+# C Tutorials:
+
+[1) Scaler Topics](https://www.scaler.com/topics/c/)
+
 
 # JavaFX Tutorials:
 
